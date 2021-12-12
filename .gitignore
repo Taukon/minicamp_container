@@ -1,2 +1,6 @@
-#Ignore slirp4netns
-build/slirp4netns
+#ignore slirp4netns
+#build/slirp4netns
+
+#build/
+/build/*
+
